@@ -1,0 +1,15 @@
+Execute Under Linux
+
+
+Change to your directory
+1 cd dir name/
+
+
+Then change permissions to allow all users to execute this file (a+x).
+ 
+2 chmod a+x ITCertification.exe
+
+
+Launch the program. 
+3  ./ITCertification.exe
+
